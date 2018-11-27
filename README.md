@@ -45,3 +45,8 @@ app.listen(port, function () {
 Finally run your AngularJS project in localhost server:
 
 $ node server.js
+
+		// const itemRemovedArray = $scope.csvHeaderList
+		// 	.slice(0, index)
+		// 	.concat($scope.csvHeaderList.slice(index + 1));
+
