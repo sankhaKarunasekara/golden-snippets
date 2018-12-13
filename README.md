@@ -9,25 +9,25 @@ Install Node.js. and npm. npm is installed with Node.js
 
 Placed inside the root project directory
 
-$ cd <your_angularjs_project>
+`$ cd <your_angularjs_project>`
 The next command creates package.json
 
-$ npm init
+`$ npm init`
 Install express ==> Fast, unopinionated, minimalist for node:
 
-$ npm install express --save
+`$ npm install express --save`
 Install morgan ==> HTTP request logger middleware for node.js
 
-$ npm install morgan --save
-create file server.js 
+`$ npm install morgan --save`
+create file server.js`
 
 
 add the following code in server.js file
 
 // Required Modules
-var express    = require("express");
+`var express    = require("express");
 var morgan     = require("morgan");
-var app        = express();
+var app        = express();`
 
 var port = process.env.PORT || 3002;
 
