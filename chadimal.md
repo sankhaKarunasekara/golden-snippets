@@ -1,3 +1,8 @@
+ඇත්තටම චන්දිමාල් fail ද?
+
+එක්දින තරග ගත්තහම ලංකාවේ උන් හිතාගෙන ඉන්නේ චන්දිමාල් තමයි ලංකාවේ ඉන්න නරකම ODI බැටා කියලා,
+
+
 `34	34	33	103.03	3	1		v Zimbabwe	Dhaka	17 Jan 2018	ODI # 3955`
 SL Lost the Game
 
@@ -37,5 +42,3 @@ Now he is supposed to forget everything, and played his cricket.
 `3	3	12	25.00	0	0		v New Zealand	Mount Maunganui	5 Jan 2019	ODI # 4075`
 
 Faild in last two games. 
-
-
